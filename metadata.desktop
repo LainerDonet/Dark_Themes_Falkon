@@ -1,11 +1,10 @@
 [Desktop Entry]
-Name=Tek-Phase Blue
+Name=Tek-Phase Dark
 
-Comment=A dark colored tech theme with neon led highlights
+Comment=A clean dark theme with black, gray and white tones
 
 Icon=theme.png
 Type=Service
 
-X-Falkon-Author=Aaron_(Ektophase)_Swanson
+X-Falkon-Author=Based_on_Tek-Phase_Blue_by_Aaron_(Ektophase)_Swanson
 X-Falkon-Email=contact@ektophase.com
-
